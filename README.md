@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Kitten.
+![image](https://github.com/KittenXLOVE/kittenxlove/blob/main/gitMainImage.gif?raw=true)
 
 <!--
 **KittenXLOVE/kittenxlove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
